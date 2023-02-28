@@ -1,2 +1,2 @@
-# io.github.folding-lang
+# folding-lang.github.io
 folding-lang home page
